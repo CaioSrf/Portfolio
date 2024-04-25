@@ -14,8 +14,10 @@ cd Portfolio
 
 ### Dependencias 
 npm install 
-npm install -D tailwindcss 
+npm install -D tailwindcss
+npm install framer-motion
 npm install react-icons --save 
-npm run dev 
+npm run dev
+
 
 ### Estilo de código Este projeto utiliza ESLint para garantir um estilo de código consistente. Certifique-se de que seu editor de código está configurado para suportar ESLint.
